@@ -5,21 +5,21 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 
 ## Language JavaScript
 
-* [Bases du Language]https://developer.mozilla.org/en-US/docs/Web/JavaScript
-* [Système de async await]https://blog.engineering.publicissapient.fr/2017/11/14/asyncawait-une-meilleure-facon-de-faire-de-lasynchronisme-en-javascript
+* [Bases du Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Système de async await](https://blog.engineering.publicissapient.fr/2017/11/14/asyncawait-une-meilleure-facon-de-faire-de-lasynchronisme-en-javascript)
 
 
 ## NodeJs Core
 
-* https://nodejs.org/en/docs/guides/[NodeJs Guides]
-* https://nodejs.dev/[NodeJs dev]
-* https://expressjs.com/fr/[Express Js]
-* https://blog.engineering.publicissapient.fr/2015/01/13/clusteriser-votre-application-node-js/[Clusteriser une appli nodejs]
-* https://www.jesuisundev.com/comprendre-les-worker-threads-de-nodejs/[Les Worker Threads nodejs]
-* https://blog.soshace.com/advanced-node-js-a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js/[Child process vs Worker-threads]
-* https://nodejs.org/api/cluster.html[API Cluster]
-* https://nodejs.org/api/child_process.html[API Child process]
-* https://nodejs.org/api/worker_threads.html[API worker Threads]
+* https://nodejs.org/en/docs/guides/
+* https://nodejs.dev/
+* https://expressjs.com
+* [Clusteriser une appli nodejs](https://blog.engineering.publicissapient.fr/2015/01/13/clusteriser-votre-application-node-js/)
+* [Les Worker Threads nodejs](https://www.jesuisundev.com/comprendre-les-worker-threads-de-nodejs/)
+* [Child process vs Worker-threads](https://blog.soshace.com/advanced-node-js-a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js/)
+* [API Cluster](https://nodejs.org/api/cluster.html)
+* [API Child process](https://nodejs.org/api/child_process.html)
+* [API worker Threads](https://nodejs.org/api/worker_threads.html)
 
 
 ## Ecosystème NodeJs
@@ -43,18 +43,11 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 
 ## Framework Front-end Js
 
-* https://angular.io/[Angular]
-* https://reactjs.org/[React.js]
-* https://nextjs.org/[Nextjs Framework Reactjs complet]
-* https://vuejs.org/[Vuejs]
-* https://nuxtjs.org/[Nuxtjs Framework Vuejs complet]
+* https://angular.io
+* https://reactjs.org
+* https://nextjs.org
+* https://vuejs.org
+* https://nuxtjs.org
 
 
-## Angular
-
-* https://angular.io/[Angular : Doc officielle]
-* https://angular-university.io/[Doc Angular Non officielle angular-university.io]
-* https://guide-angular.wishtack.io/angular[Doc Angular Non officielle guide-angular.wishtack.io]
-* https://howtodoinjava.com/angular[Doc Angular Non officielle howtodoinjava.com/angular]
-* https://www.javaguides.net/p/angular-9-tutorial.html[Doc Angular Non officielle javaguides.net]
 
