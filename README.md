@@ -24,21 +24,17 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 
 ## Ecosystème NodeJs
 
-* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction[Express Intro]
-* https://nestjs.com/[Nest js]
-* https://github.com/sequelize/sequelize/[Sequelize ORM pour NodeJs]
-* https://github.com/sequelize/express-example[Sequelize + express-example]
-* https://blog.engineering.publicissapient.fr/2015/01/13/clusteriser-votre-application-node-js/[Clusteriser votre appli node-js]
-* https://typeorm.io/#/[TypeORM ORM pour NodeJs en TypeScript]
-* https://typeorm.io/#/example-with-express[TypeORM + express]
-* https://codersera.com/blog/typeorm-with-nest-js-tutorial/[TypeORM With NEST JS Basic Tutorial]
-* https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn[NodeJs + PM2 + Nginx]
-* https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/4348381-gerer-son-application-avec-pm2[NodeJs + PM2]
-* https://pm2.keymetrics.io/[Site officiel de PM2]
-* https://github.com/artilleryio/artillery[Load testing]
-* https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/4348386-optimiser-son-application[Stresser son appli NodeJs]
-* https://github.com/doxout/recluster[Recluster Systeme de cluster autre que PM2]
-* https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197[Bonnes pratiques de performance NodeJs]
+* [Express Intro](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+* [Nest js](https://nestjs.com/)
+* [Sequelize ORM pour NodeJs](https://github.com/sequelize/sequelize/)
+* [Clusteriser votre appli node-js](https://blog.engineering.publicissapient.fr/2015/01/13/clusteriser-votre-application-node-js/)
+* [TypeORM ORM pour NodeJs en TypeScript](https://typeorm.io/#/)
+* [NodeJs + PM2 + Nginx](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn)
+* [NodeJs + PM2](https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/4348381-gerer-son-application-avec-pm2)
+* [Site officiel de PM2](https://pm2.keymetrics.io/)
+* [Load testing](https://github.com/artilleryio/artillery)
+* [Stresser son appli NodeJs](https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/4348386-optimiser-son-application)
+* [Bonnes pratiques de performance NodeJs](https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197)
 
 
 ## Framework Front-end Js
