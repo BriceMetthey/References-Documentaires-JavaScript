@@ -20,6 +20,8 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 * [API Cluster](https://nodejs.org/api/cluster.html)
 * [API Child process](https://nodejs.org/api/child_process.html)
 * [API worker Threads](https://nodejs.org/api/worker_threads.html)
+* [Workshops Node Open Source](https://nodeschool.io/)
+* [Self-guided workshops](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
 
 
 ## Ecosystème NodeJs
