@@ -22,6 +22,7 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 * [API worker Threads](https://nodejs.org/api/worker_threads.html)
 * [Workshops Node Open Source](https://nodeschool.io/)
 * [Self-guided workshops](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
+* [Tuto intro en français Base de Node](https://nodejs.developpez.com/tutoriel/art-of-node-introduction-nodejs/)
 
 
 ## Ecosystème NodeJs
