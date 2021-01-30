@@ -45,6 +45,7 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 * [Load testing](https://github.com/artilleryio/artillery)
 * [Stresser son appli NodeJs](https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/4348386-optimiser-son-application)
 * [Bonnes pratiques de performance NodeJs](https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197)
+* [Quand utiliser ou ne pas utiliser NodeJs](https://livecodestream.dev/post/when-you-should-and-should-not-use-nodejs-for-your-project/)
 
 
 ## Framework Front-end Js
