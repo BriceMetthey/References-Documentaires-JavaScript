@@ -3,6 +3,13 @@
 Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript.
 
 
+## Framework CSS / JS
+
+* [Bulma](https://bulma.io/)
+* [Foundation](http://foundation.zurb.com)
+* [Tweeter Bootstrap](http://getbootstrap.com)
+
+
 ## Language JavaScript
 
 * [Bases du Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -48,10 +55,7 @@ Références documentaires Front-End &amp; Back-end JavaScript/NodeJs/TypeScript
 * https://vuejs.org
 * https://nuxtjs.org
 
-## Framework CSS / JS
 
-* [Foundation](http://foundation.zurb.com)
-* [Tweeter Bootstrap](http://getbootstrap.com)
 
 
 
